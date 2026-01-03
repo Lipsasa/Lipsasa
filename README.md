@@ -1,5 +1,45 @@
 # 💫 About Me:
-i am currently studing MCA <br>i am a student at imit cuttack<br>i like to learn new thing every day <br>now i am learning new courses in coursera and GEEKSFORGEEKS<br>i like music, online game and solving cube<br>i mostly want to learn to build a game and how the games are made<br>and also i want to learn more about hacking<br>
+👋 Hi, I’m Lipsa Sa
+
+🎓 MCA Student at IMIT, Cuttack
+🚀 Passionate learner | Game Development Enthusiast | Full-Stack Developer in progress
+
+🌟 About Me
+I love learning new technologies every day and continuously improving my skills through platforms like Coursera and GeeksforGeeks.
+🎮 I’m deeply interested in game design and development and curious about how games are built from scratch—from idea to execution.
+🛡️ I’m also exploring ethical hacking and cybersecurity to better understand system security.
+
+🔭 Currently Working On
+Game Designing & Development
+Strengthening Full-Stack Development skills
+
+🌱 Currently Learning
+React.js
+Node.js
+Next.js
+MERN Stack
+
+👯 Looking to Collaborate On
+Coding projects
+Game development & design
+Creative tech ideas
+
+🤝 Looking for Help With
+Coding
+Game design
+Project development
+
+💬 Ask Me About
+Programming & coding
+Skill development
+Learning resources
+
+🎧 Hobbies & Interest 
+Music 🎵
+Online gaming 🎮
+Solving Rubik’s Cube 🧩
+
+⚡ Fun Fact I can solve a Rubik’s Cube in under 2 minutes ⏱️
 
 
 ## 🌐 Socials:
